@@ -10,6 +10,7 @@ var dog ={
   name: 'AquaMarine'
 };
 
+dog["elementalPower"] = "water";
 /////////////
 // Num. 4  //////////////////////////////////////////////////////////
 // Change cat's attitude to calm using dot notation                //
@@ -19,3 +20,4 @@ var cat ={
   attitude: 'sassy',
   name: 'Patience'
 };
+cat.attitude = "calm";
